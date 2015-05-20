@@ -1,0 +1,1 @@
+cd /www/motion && sh /www/script/backup.sh && sh /www/script/move.sh

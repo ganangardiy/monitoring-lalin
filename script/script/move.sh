@@ -1,0 +1,1 @@
+date=`date | awk '{print $3$2}'` && mkdir /www/backup/$date/ && mv /www/motion/*.mp4 /www/backup/$date/
